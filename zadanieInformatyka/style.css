@@ -1,0 +1,27 @@
+.baner {
+    background-color: yellow;
+    height: 200px;
+    padding: 20px 20px;
+}
+
+.left {
+    width: 40%;
+    float:left;
+    background-color: red;
+    height: 300px;
+}
+
+.right {
+    width: 60%;
+    height: 300px;
+    float:left;
+    background-color: blue;
+    
+}
+
+#stopka {
+    float: none;
+    background-color: black;
+    height: 200px;
+    padding: 20px 20px;
+}

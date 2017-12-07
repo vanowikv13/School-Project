@@ -1,0 +1,3 @@
+select id, marka, model from samochody;
+select id, Klient from zamowienia;
+select * from samochody where marka = "Fiat";

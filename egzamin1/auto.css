@@ -1,0 +1,40 @@
+.Baner {
+    background-color: #45517D;
+    color: white;
+    font-size: 120%;
+    text-align: right;
+    height: 60px;
+}
+
+.Left {
+    background-color: #61B2EC;
+    width: 40%;
+    height: 500px;
+    float: left;
+}
+
+.Right {
+    background-color: #8EC9F2;
+    width: 60%;
+    height: 500px;
+    float: left;
+}
+
+.Stopka {
+    background-color: #45517D;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+
+a:link {
+    color:orange;
+}
+
+a:visited {
+    color:green;
+}
+
+table {
+    width: 100%;
+}

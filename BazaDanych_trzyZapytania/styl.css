@@ -1,0 +1,42 @@
+body {
+    background-color: #000066;
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+}
+
+a:active {
+    color:darkgoldenrod;
+}
+
+.left {
+    border: 1px solid white;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    font-family: monospace;
+    text-align: center;
+    background-color: black;
+}
+
+.right {
+    color: #ff0000;
+    background-color: #0000ff;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    text-align: left;
+    margin-left: 20px;
+    
+}
+
+form {
+    color: white;
+}
+
+h1 {
+    color: chocolate;
+    text-align: center;
+    font-size: 100px;
+    font-family: monospace;
+}
